@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include <math.h>
+
 int main(void) {
     const double a = 5000.0; //beaker
     const double b = 250.0; //pour per one
@@ -35,5 +37,4 @@ int main(void) {
     return 0;
 }
 
-//apple must only have the weight >= volum of water to make the aplple floating 
-//
+//apple must only have the weight >= volum of water to make the aplple floating
